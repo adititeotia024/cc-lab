@@ -2,6 +2,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 
+// amity university
 public class f1 extends Frame implements ActionListener {
     Label L1;
     TextField T1;
